@@ -1,4 +1,4 @@
-# odin-recipes
+Recipes
 1° project. A brutallist site only using HTML
 
 As my first project in HTML, I want to refresh the skills I've learned yet.
